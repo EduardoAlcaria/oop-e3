@@ -1,0 +1,1 @@
+O codigo tem 2 contribuidores devido a certas edições terem sido feitas em outro git, o contribuidor Arthur não contruibuiu com o pensamento e estrutura do codigo, mas sim, apenas com o hardware necessario.
